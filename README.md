@@ -65,8 +65,8 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
+Programs used:
 
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must include a written description of three observable trends based on the data.
+* Project used the Pandas Library and the Jupyter Notebook.
+
 
