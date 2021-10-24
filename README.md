@@ -41,7 +41,7 @@ The report includes each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Identified the the top 5 spenders in the game by total purchase value, then listed (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
@@ -49,7 +49,7 @@ The report includes each of the following:
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* Identified the 5 most popular items by purchase count, then listed (in a table):
   * Item ID
   * Item Name
   * Purchase Count
@@ -58,7 +58,7 @@ The report includes each of the following:
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* Identified the 5 most profitable items by total purchase value, then listed (in a table):
   * Item ID
   * Item Name
   * Purchase Count
